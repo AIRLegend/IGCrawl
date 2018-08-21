@@ -7,11 +7,11 @@ This code is part of a personal project focused in social media analytics. I am 
 * **User info:** User id, username, followers, followings, posts, whether is a company profile or private.
 * **Posts info:** Post url (photo), text and number of likes.
 
-##Install
+## Install
 Clone this repo and run this command:
 > python3 setup.py install
 
-##Uninstall
+## Uninstall
 Run this command
 > pip3 remove IGCrawl
 
