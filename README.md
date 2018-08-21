@@ -1,6 +1,6 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png)
 # IGCrawl
-### Open socurce Instagram scraper
+### Open source Instagram scraper
 
 This code is part of a personal project focused in social media analytics. I am releasing this part of my software for anyone who wants to get data from Instagram. Currently it's possible to mine:
 
